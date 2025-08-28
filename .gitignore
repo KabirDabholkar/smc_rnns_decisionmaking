@@ -8,3 +8,5 @@ models_old
 *.pdf
 *.svg
 *.png
+output_data
+__pycache__
